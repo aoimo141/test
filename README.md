@@ -2,4 +2,3 @@
 test
 a
 a
-b
